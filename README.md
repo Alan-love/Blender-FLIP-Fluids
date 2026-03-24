@@ -15,13 +15,7 @@ The **[FLIP Fluids addon](https://superhivemarket.com/products/flipfluids?ref=26
 
 With our reputation for delivering high quality software and outstanding customer support, the FLIP Fluids addon is one of the best selling products in the Blender community.
 
-- Over 10,000 copies sold, 5 star rating, excellent value
-- No subscriptions, all future updates included
-- [Try out our free demo! We're sure you'll like it :)](https://github.com/rlguy/Blender-FLIP-Fluids/wiki/FLIP-Fluids-Demo-Addon)
-- [Frequently Asked Questions (FAQ)](https://github.com/rlguy/Blender-FLIP-Fluids/wiki/Frequently-Asked-Questions)
-- [What is the difference between Blender's Mantaflow FLIP simulator and the FLIP Fluids addon?](https://github.com/rlguy/Blender-FLIP-Fluids/wiki/Frequently-Asked-Questions#what-is-the-difference-between-blenders-mantaflow-fluid-simulator-and-the-flip-fluids-addon)
-
-Have any questions? Do not hesitate to ask us at support@flipfluids.com!
+[Try our free FLIP Fluids Demo Addon!](https://github.com/rlguy/Blender-FLIP-Fluids/wiki/FLIP-Fluids-Demo-Addon)
 
 ## Getting the FLIP Fluids Addon
 
@@ -38,7 +32,7 @@ See any of our [market place product pages](https://github.com/rlguy/Blender-FLI
 ## System Requirements
 
 - Windows, macOS, or Linux operating system
-- Blender 4.5 to 5.0 compatible
+- Blender 4.5 to 5.1 compatible
 - CPU 64-bit Intel® or AMD® or Apple Silicon multi-core processor
 - 8 GB RAM minimum, 16 GB of RAM or more is highly recommended
 
@@ -128,8 +122,6 @@ Once successfully built, the FLIP Fluids addon will be located in the ```build/b
 
 - Marketplaces
     - [Superhive (_formerly Blender Market_)](https://superhivemarket.com/products/flipfluids?ref=2685)
-    - [Gumroad](https://flipfluids.gumroad.com/l/flipfluids)
-    - [FlippedNormals](https://flippednormals.com/product/the-flip-fluids-addon-for-blender-16173?dst=4DxRZXXT)
 - [Documentation and Wiki](https://github.com/rlguy/Blender-FLIP-Fluids/wiki)
 - [Bug/Issue Tracker](https://github.com/rlguy/Blender-FLIP-Fluids/issues)
 - [FLIP Fluids Homepage](http://flipfluids.com)
